@@ -10,7 +10,7 @@ import os
 
 # Setting variables
 csv_path = ""                  # Enter the folder path of CSV file containing the file path input & new file name.
-csv_file_name = "sample.csv"             # Enter the file name of CSV file containing the file path input & new file name.
+csv_file_name = "sample.csv"   # Enter the file name of CSV file containing the file path input & new file name.
 
 # A generic function to split the file path and filename
 def path_and_filename(source_file_path):
